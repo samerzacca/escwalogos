@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<theme>
+   <title>Escwa Theme</title>
+   <title-id>theme.escwa</title-id>
+   <css-tokens>
+      <less-variables>
+         @dashlet-background: #fff;
+         @dashlet-border: 1px solid #bababa;
+         @dashlet-border-radius: 0;
+         @dashlet-title-background: #92c15f linear-gradient(to bottom, #a3d07a, #92c15f);
+         @dashlet-title-border-bottom: 0;
+         @dashlet-title-border-radius: 0;
+         @dashlet-title-color: #fff;
+         @dashlet-toolbar-background: #B9C3CF;
+         @dashlet-toolbar-border-bottom: 1px solid #d3d3d3;
+         @dashlet-body-background: #ffa27b;
+         @dashlet-body-border-radius: 0;
+         @header-background-color: #9e2146;
+         @header-font-color: #fff;
+         @header-hover-background-color: #f0f2f9;
+         @header-hover-font-color: #3A8DDE;
+         @header-focus-background-color: #3A8DDE;
+         @header-focus-font-color: #3A8DDE;
+         @header-menubar-font-color: #fff;
+         @header-dropdown-menu-font-color: #fff;
+      </less-variables>
+   </css-tokens>
+</theme>
